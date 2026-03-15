@@ -1,5 +1,5 @@
 <!-- 자기 소개 -->
-<h4 align="center">안녕하세요 백엔드 개발을 공부하고 있는 Jeensh입니다</h4>
+<h4 align="center">안녕하세요~</h4>
 
 <!-- 기술 스택 -->
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -17,6 +17,5 @@
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=Yolo&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon aws&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
 </p>
